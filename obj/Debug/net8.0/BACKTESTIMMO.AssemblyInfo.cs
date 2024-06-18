@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BACKTESTIMMO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47ee0e2592b6afd413369df316faac6da6abd5e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+400c5d56a52246a33b9f68f5d05bdb4030817485")]
 [assembly: System.Reflection.AssemblyProductAttribute("BACKTESTIMMO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BACKTESTIMMO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
